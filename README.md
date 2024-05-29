@@ -15,9 +15,13 @@ This project demonstrates the development, containerization, and deployment of a
 
 ml-app/
 ├── app.py
+
 ├── Dockerfile
+
 ├── model.pkl
+
 ├── requirements.txt
+
 └── train_model.py
 
 
