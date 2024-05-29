@@ -14,6 +14,7 @@ This project demonstrates the development, containerization, and deployment of a
 ## Project Structure
 
 ml-app/
+
 ├── app.py
 
 ├── Dockerfile
